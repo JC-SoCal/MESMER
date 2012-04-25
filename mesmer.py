@@ -16,6 +16,8 @@ usage example:
     python mesmer.py -f C:\audit\av.db -s "evil string"
 """
 
+# future need: put name of parent process
+
 from optparse import OptionParser
 import sqlite3
 import sys
