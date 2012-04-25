@@ -18,6 +18,7 @@ usage example:
 
 # future need: put name of parent process
 # in order to do this i need to research the sqlite db again
+# shouldn't be too hard -- hope to have it done in a week
 
 from optparse import OptionParser
 import sqlite3
